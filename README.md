@@ -13,7 +13,7 @@ Odin is a forge mod for Hypixel Skyblock on the minecraft version 1.8.9. The mod
 The mod contains two versions which are two separate builds. Using Gradle MultiProject functionality enables us to develop two separate versions of the mod within the same repository while keeping the unique additions to each version separate. If you have any questions regarding the mod, please feel free to ask in the Discord server.
 
 To open the main menu use `/od`, `/odin` or `/odinclient` in chat.
-For extensive command help use `/od help` in chat.
+For extensive command help use `/od help` in chat!
 
 We have an installation guide which you can access by clicking [here](https://odtheking.github.io/Odin/installation_guide).
 
